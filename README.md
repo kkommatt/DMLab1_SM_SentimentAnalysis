@@ -138,7 +138,7 @@ python visualization.py
 Generates a bar chart showing the distribution of **Positive, Negative, and Neutral** tweets.  
 
 🔹 **Example Output:**  
-![Sentiment Distribution]()
+![Sentiment Distribution](https://github.com/kkommatt/DMLab1_SM_SentimentAnalysis/blob/master/images/distribution.png)
 
 ---
 
@@ -146,7 +146,7 @@ Generates a bar chart showing the distribution of **Positive, Negative, and Neut
 Highlights the most frequently used words in **positive tweets**.  
 
 🔹 **Example Output:**  
-![Positive Word Cloud]()
+![Positive Word Cloud](https://github.com/kkommatt/DMLab1_SM_SentimentAnalysis/blob/master/images/wordcloud.png)
 
 ---
 
